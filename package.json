@@ -1,11 +1,22 @@
 {
   "name": "vectorwatch-authprovider-abstract",
   "version": "1.0.0",
-  "description": "",
+  "description": "Abstract class for implementing a VectorWatch AuthProvider",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alin.roman@zitec.com",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VectorWatch/authprovider-abstract.git"
+  },
+  "keywords": [
+    "vectorwatch"
+  ],
+  "bugs": {
+    "url": "https://github.com/VectorWatch/authprovider-abstract/issues"
+  },
+  "homepage": "https://github.com/VectorWatch/authprovider-abstract#readme"
 }
