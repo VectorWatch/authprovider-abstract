@@ -1,0 +1,11 @@
+{
+  "name": "vectorwatch-authprovider-abstract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alin.roman@zitec.com",
+  "license": "ISC"
+}
