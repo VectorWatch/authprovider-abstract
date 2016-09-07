@@ -25,6 +25,10 @@ AuthProviderAbstract.prototype.getAuthTokensAsync = function(credentials) {
     throw new Error('Not implemented.');
 };
 
+AuthProviderAbstract.prototype.refreshAuthTokensAsync = function(credentialsKey) {
+    throw new Error('Not implemented.');
+};
+
 /**
  * Returns the credentials key based on credentials object
  * @param credentials {Object}
